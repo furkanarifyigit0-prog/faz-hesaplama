@@ -1,3 +1,5 @@
+import math
+
 # Faz hesaplama programı
 
 print("⚡ Faz Hesaplama Programı ⚡")
@@ -35,3 +37,4 @@ elif phi_deg < 0:
     print("Devre kapasitif, akım gerilimin İLERİSİNDE.")
 else:
     print("Devre tam dirençli, akım ve gerilim aynı fazda.")
+
